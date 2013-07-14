@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Author: Bruce Williams, @wbruce
+
+# THANKS
+
+    CSS, Boilerplate: Lynn Wallenstein, @lynnwallenstein
+
+# TECHNOLOGY COLOPHON
+
+    Jekyll static site generator
+    Sass and Compass
+    Coffeescript
+    HTML5 ★ Boilerplate
+    Normalize.css
+    jQuery, Modernizr
+    Emacs
